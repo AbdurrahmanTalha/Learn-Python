@@ -6,7 +6,7 @@ def double_it(num):
 
 # ন
 def add(num1, num2):
-    total = num + num2
+    total = num1 + num2
     return total
 
 # add(56, 23)
