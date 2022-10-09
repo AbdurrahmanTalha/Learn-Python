@@ -1,3 +1,3 @@
-import function
+from function import *
 
-sum = function.add(45, 56)
+sum = add(45, 56)
